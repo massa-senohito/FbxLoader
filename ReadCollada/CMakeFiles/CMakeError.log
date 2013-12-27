@@ -1,0 +1,702 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec1439169925/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec1439169925/fast GetLastError() = 3
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec5686884/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec5686884/fast GetLastError() = 3
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec1267652491/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec1267652491/fast GetLastError() = 3
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: error: linker command failed due to signal (use -v to see invocation)
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec265253488/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec265253488/fast GetLastError() = 3
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+clang++.exe: warning: argument unused during compilation: '-A a'
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: error: linker command failed due to signal (use -v to see invocation)
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec3778277567/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec3778277567/fast GetLastError() = 3
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+clang++.exe: warning: argument unused during compilation: '-A a'
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: error: linker command failed due to signal (use -v to see invocation)
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec1139052495/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec1139052495/fast GetLastError() = 3
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+clang++.exe: warning: argument unused during compilation: '-A a'
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: error: linker command failed due to signal (use -v to see invocation)
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec1685089757/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec1685089757/fast GetLastError() = 3
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+clang++.exe: warning: argument unused during compilation: '-A a'
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: error: linker command failed due to signal (use -v to see invocation)
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec402159682/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec402159682/fast GetLastError() = 3
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+clang++.exe: warning: argument unused during compilation: '-A a'
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: error: linker command failed due to signal (use -v to see invocation)
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec3231185377/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec3231185377/fast GetLastError() = 3
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+clang++.exe: warning: argument unused during compilation: '-A a'
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: error: linker command failed due to signal (use -v to see invocation)
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec3174248513/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec3174248513/fast GetLastError() = 3
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+clang++.exe: warning: argument unused during compilation: '-A a'
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: error: linker command failed due to signal (use -v to see invocation)
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec1873477171/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec1873477171/fast GetLastError() = 3
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+clang++.exe: warning: argument unused during compilation: '-A a'
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: error: linker command failed due to signal (use -v to see invocation)
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec397591284/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec397591284/fast GetLastError() = 3
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+clang++.exe: warning: argument unused during compilation: '-A a'
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: error: linker command failed due to signal (use -v to see invocation)
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec1757270479/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec1757270479/fast GetLastError() = 3
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+clang++.exe: warning: argument unused during compilation: '-A a'
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: error: linker command failed due to signal (use -v to see invocation)
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec137999535/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec137999535/fast GetLastError() = 3
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec4014919093/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec4014919093/fast GetLastError() = 3
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec1735851894/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec1735851894/fast GetLastError() = 3
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+clang++.exe: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated
+clang++.exe: warning: argument unused during compilation: '-A a'
+CMakeCCompilerId.c:2:3: error: "A C++ compiler has been selected for C."
+# error "A C++ compiler has been selected for C."
+  ^
+1 error generated.
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec3691865212/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec3691865212/fast GetLastError() = 3
+
+

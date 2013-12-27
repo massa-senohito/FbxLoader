@@ -1,0 +1,85 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang.exe: error: unable to execute command: program not executable
+clang.exe: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: error: unable to execute command: program not executable
+clang++.exe: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec1845615883/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec1845615883/fast GetLastError() = 3
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang.exe: error: unable to execute command: program not executable
+clang.exe: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: error: unable to execute command: program not executable
+clang++.exe: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec886289422/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec886289422/fast GetLastError() = 3
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang.exe: error: linker command failed due to signal (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+clang++.exe: error: linker command failed due to signal (use -v to see invocation)
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:D:/lcc/bin/make.exe "cmTryCompileExec1657829169/fast"
+D:/lcc/bin/make.exe: Couldn't open cmTryCompileExec1657829169/fast GetLastError() = 3
+
+

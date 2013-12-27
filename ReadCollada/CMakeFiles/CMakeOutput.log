@@ -1,0 +1,376 @@
+The system is: Windows - 6.1 - x86
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec2531351983
+
+Microsoft(R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ ビルド開始: プロジェクト: cmTryCompileExec2531351983, 構成: Debug Win32 ------
+1>  Microsoft(R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2531351983.dir\Debug\\" /Fd"C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2531351983.pdb" /Gd /TC /analyze- /errorReport:prompt testCCompiler.c  /Zm1000 
+1>  
+1>  testCCompiler.c
+1>  cmTryCompileExec2531351983.vcxproj -> C:\Users\massa_senohito\Documents\Visual Studio 11\Projects\ReadCollada\ReadCollada\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2531351983.exe
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3336772456
+
+Microsoft(R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ ビルド開始: プロジェクト: cmTryCompileExec3336772456, 構成: Debug Win32 ------
+1>  Microsoft(R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3336772456.dir\Debug\\" /Fd"C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3336772456.pdb" /Gd /TC /analyze- /errorReport:prompt "..\..\..\..\..\..\..\..\..\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"  /Zm1000 
+1>  
+1>  CMakeCCompilerABI.c
+1>  cmTryCompileExec3336772456.vcxproj -> C:\Users\massa_senohito\Documents\Visual Studio 11\Projects\ReadCollada\ReadCollada\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3336772456.exe
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3923098139
+
+Microsoft(R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ ビルド開始: プロジェクト: cmTryCompileExec3923098139, 構成: Debug Win32 ------
+1>  Microsoft(R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3923098139.dir\Debug\\" /Fd"C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3923098139.pdb" /Gd /TP /analyze- /errorReport:prompt testCXXCompiler.cxx  /Zm1000 
+1>  
+1>  testCXXCompiler.cxx
+1>  cmTryCompileExec3923098139.vcxproj -> C:\Users\massa_senohito\Documents\Visual Studio 11\Projects\ReadCollada\ReadCollada\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3923098139.exe
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec274710634
+
+Microsoft(R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ ビルド開始: プロジェクト: cmTryCompileExec274710634, 構成: Debug Win32 ------
+1>  Microsoft(R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec274710634.dir\Debug\\" /Fd"C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec274710634.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\..\..\..\..\..\..\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"  /Zm1000 
+1>  
+1>  CMakeCXXCompilerABI.cpp
+1>  cmTryCompileExec274710634.vcxproj -> C:\Users\massa_senohito\Documents\Visual Studio 11\Projects\ReadCollada\ReadCollada\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec274710634.exe
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
+
+
+The system is: Windows - 6.1 - x86
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/altera/13.0/quartus/bin64/cygwin/bin/gcc.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/altera/13.0/quartus/bin64/cygwin/bin/g++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is GNU, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/a.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/altera/13.0/quartus/bin64/cygwin/bin/gcc.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/altera/13.0/quartus/bin64/cygwin/bin/g++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is GNU, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/a.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/altera/13.0/quartus/bin64/cygwin/bin/gcc.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/altera/13.0/quartus/bin64/cygwin/bin/g++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is GNU, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/a.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/altera/13.0/quartus/bin64/cygwin/bin/gcc.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is Clang, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is Clang, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is Clang, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is Clang, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is Clang, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is Clang, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is Clang, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is Clang, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is Clang, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is Clang, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Downloads/dev/LLVM 3.4.svn/bin/clang++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is Clang, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+The system is: Windows - 6.1 - x86
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/altera/13.0/quartus/bin64/cygwin/bin/gcc.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/altera/13.0/quartus/bin64/cygwin/bin/g++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is GNU, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/a.exe"
+
+The system is: Windows - 6.1 - x86
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/altera/13.0/quartus/bin64/cygwin/bin/gcc.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/altera/13.0/quartus/bin64/cygwin/bin/g++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is GNU, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/a.exe"
+
+The system is: Windows - 6.1 - x86
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/altera/13.0/quartus/bin64/cygwin/bin/g++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is GNU, found in "C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/CompilerIdCXX/a.exe"
+

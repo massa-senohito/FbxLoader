@@ -1,0 +1,3 @@
+C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/ALL_BUILD.dir
+C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/ZERO_CHECK.dir
+C:/Users/massa_senohito/Documents/Visual Studio 11/Projects/ReadCollada/ReadCollada/CMakeFiles/loader.dir
